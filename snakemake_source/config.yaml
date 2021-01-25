@@ -1,0 +1,6 @@
+refFasta:  /home/wangyujue/gpfs/Data/RefGenome/ucsc/hg19
+downsample: 0
+shift: 75
+chrs: chr21
+site: ctcf
+bed: /gpfs/output/20191002_Nova/ATAC/bed/CTCF.for.vplot_qc.bed
